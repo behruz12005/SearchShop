@@ -1,0 +1,254 @@
+Parent Category ID,Parent Category,Parent Alias,Child Category ID,Child Category,Child Alias
+1,"Телевизор, фото-видео ва аудио",televizory-audio-i-videotekhnika,2,Телевизорлар,televizory
+1,"Телевизор, фото-видео ва аудио",televizory-audio-i-videotekhnika,3,Аудио,audio
+1,"Телевизор, фото-видео ва аудио",televizory-audio-i-videotekhnika,4,Видеотехника,videotekhnika
+1,"Телевизор, фото-видео ва аудио",televizory-audio-i-videotekhnika,110,Media Player,mediapleer
+1,"Телевизор, фото-видео ва аудио",televizory-audio-i-videotekhnika,169,Диктофонлар,diktofony
+1,"Телевизор, фото-видео ва аудио",televizory-audio-i-videotekhnika,189,"Фото, видео",foto-video
+1,"Телевизор, фото-видео ва аудио",televizory-audio-i-videotekhnika,191,Ўйин консоллари,igrovye-pristavki-1
+1,"Телевизор, фото-видео ва аудио",televizory-audio-i-videotekhnika,343,Кронштейнлар,kronshteyny
+5,"Ноутбук, принтер, компьютерлар",noutbuki-planshety-kompyutery,6,Ноутбуклар,noutbuki
+5,"Ноутбук, принтер, компьютерлар",noutbuki-planshety-kompyutery,50,Мониторлар,monitory
+5,"Ноутбук, принтер, компьютерлар",noutbuki-planshety-kompyutery,51,Компьютер қурилмалари,kompyuternye-komponenty
+5,"Ноутбук, принтер, компьютерлар",noutbuki-planshety-kompyutery,64,Офис жиҳозлари,printery
+5,"Ноутбук, принтер, компьютерлар",noutbuki-planshety-kompyutery,137,Ноутбук учун сумка ва рюкзаклар,sumki-i-ryukzaki-dlya-noutbukov
+5,"Ноутбук, принтер, компьютерлар",noutbuki-planshety-kompyutery,179,Тизим ускуналари,setevoe-oborudovanie
+5,"Ноутбук, принтер, компьютерлар",noutbuki-planshety-kompyutery,285,Моноблок,monoblock
+5,"Ноутбук, принтер, компьютерлар",noutbuki-planshety-kompyutery,314,Проекторлар,proektory-1
+5,"Ноутбук, принтер, компьютерлар",noutbuki-planshety-kompyutery,316,Стол усти компьютерлари,nastolnye-kompyutery
+5,"Ноутбук, принтер, компьютерлар",noutbuki-planshety-kompyutery,441,Мониторлар учун кронштейн ва тагкурсилар,kronshteyn-dlya-monitorov
+5,"Ноутбук, принтер, компьютерлар",noutbuki-planshety-kompyutery,460,Видеогаолиш,videozakhvat
+5,"Ноутбук, принтер, компьютерлар",noutbuki-planshety-kompyutery,910,Бошқа аксессуарлар,prochie-aksessuary
+9,"Смартфон, телефон, гаджет, аксессуарлар",telefony-gadzhety-aksessuary,10,Смартфонлар,telefony
+9,"Смартфон, телефон, гаджет, аксессуарлар",telefony-gadzhety-aksessuary,12,Смартфонлар ва гаджетлар учун аксессуарлар,aksessuary
+9,"Смартфон, телефон, гаджет, аксессуарлар",telefony-gadzhety-aksessuary,103,Планшетлар,planshety
+9,"Смартфон, телефон, гаджет, аксессуарлар",telefony-gadzhety-aksessuary,130,Телефонлар,radiotelefony
+9,"Смартфон, телефон, гаджет, аксессуарлар",telefony-gadzhety-aksessuary,142,Smart Watches,smart-watches
+9,"Смартфон, телефон, гаджет, аксессуарлар",telefony-gadzhety-aksessuary,308,Тугмали телефонлар,knopochnye-telefony
+35,Маиший техника,bytovaya-tekhnika-dlya-doma,37,Кир ювиш машиналари,stiralnye-mashiny
+35,Маиший техника,bytovaya-tekhnika-dlya-doma,38,Уй учун чангютгичлар,pylesosy-i-aksessuary
+35,Маиший техника,bytovaya-tekhnika-dlya-doma,48,Иқлим таъминловчи қурилмалар,klimaticheskaya-tekhnika
+35,Маиший техника,bytovaya-tekhnika-dlya-doma,49,Кийимларни парвариш қилиш ускуналари,tovary-dlya-ukhoda-za-odezhdoy
+35,Маиший техника,bytovaya-tekhnika-dlya-doma,188,Тикув ускуналари,shveynye-mashiny
+35,Маиший техника,bytovaya-tekhnika-dlya-doma,203,Уй учун минимойкалар,karcher-1
+35,Маиший техника,bytovaya-tekhnika-dlya-doma,245,Сувиситгичлар,vodonagrevateli
+35,Маиший техника,bytovaya-tekhnika-dlya-doma,461,Ташқи совутгич,vitrinnyy-kholodilnik
+35,Маиший техника,bytovaya-tekhnika-dlya-doma,505,Маиший техника аксессуарлари,aksessuary-dlya-bytovoy-tekhniki
+35,Маиший техника,bytovaya-tekhnika-dlya-doma,702,Сув совутгич,kuler-vody
+39,Барчаси ошхона учун,tekhnika-dlya-kukhni,40,Йирик ошхона техникаси,krupnaya-kukhonnaya-tekhnika
+39,Барчаси ошхона учун,tekhnika-dlya-kukhni,46,Микротўлқинли печлар,posuda-i-aksessuary
+39,Барчаси ошхона учун,tekhnika-dlya-kukhni,47,Майда ошхона техникаси,melkaya-kukhonnaya-tekhnika
+39,Барчаси ошхона учун,tekhnika-dlya-kukhni,307,Мини-печлар,mini-pechi-1
+39,Барчаси ошхона учун,tekhnika-dlya-kukhni,309,Ошхона буюмлари,posuda-dlya-kukhni
+39,Барчаси ошхона учун,tekhnika-dlya-kukhni,462,Ошхона жумраги,kukhonnaya-moyka
+39,Барчаси ошхона учун,tekhnika-dlya-kukhni,943,Стол тўплами,stolovyy-nabor
+81,Спорт анжомлари,sporttovary,82,Спорт ва ҳордиқ,giroskuter
+81,Спорт анжомлари,sporttovary,138,Футбол анжомлари,vse-dlya-futbola
+81,Спорт анжомлари,sporttovary,139,Баскетбол анжомлари,vse-dlya-basketbola
+81,Спорт анжомлари,sporttovary,140,Теннис анжомлари,vse-dlya-tennisa
+81,Спорт анжомлари,sporttovary,141,Жанг санъати учун анжомлар,vse-dlya-edinoborstv
+81,Спорт анжомлари,sporttovary,174,Сузиш анжомлари,vse-dlya-plavaniya
+81,Спорт анжомлари,sporttovary,224,Универсал спорт кийими,universalnaya-sportivnaya-odezhda
+81,Спорт анжомлари,sporttovary,381,Спорт ускуналар,oborudovanie-dlya-sporta
+81,Спорт анжомлари,sporttovary,422,Спорт озуқалари,sportivnoe-pitanie
+81,Спорт анжомлари,sporttovary,435,Спорт аксессуарлари,sportivnye-aksessuary
+81,Спорт анжомлари,sporttovary,641,Барчаси волейбол учун,vse-dlya-voleybola
+81,Спорт анжомлари,sporttovary,652,Стол ўйинлари,nastolnye-igry-2
+81,Спорт анжомлари,sporttovary,1097,Фитнес ва бодибилдинг,fitnes-i-bodibilding
+81,Спорт анжомлари,sporttovary,1098,Ов ва балиқ овлаш,otdyx-na-prirode-rybalka-i-oxota
+147,Гўзаллик ва саломатлик,krasota-i-zdorove,148,Тери парвариши,ukhod-za-kozhey
+147,Гўзаллик ва саломатлик,krasota-i-zdorove,159,Гигиена воситалари,sredstva-i-predmety-gigieny
+147,Гўзаллик ва саломатлик,krasota-i-zdorove,161,Гўзаллик учун техника,tekhnika-dlya-krasoty
+147,Гўзаллик ва саломатлик,krasota-i-zdorove,222,Пардоз жиҳозлари,make-up
+147,Гўзаллик ва саломатлик,krasota-i-zdorove,226,Эркаклар учун,dlya-muzhchin
+147,Гўзаллик ва саломатлик,krasota-i-zdorove,248,Оптика,optika
+147,Гўзаллик ва саломатлик,krasota-i-zdorove,268,Парфюмерия,parfyumeriya
+147,Гўзаллик ва саломатлик,krasota-i-zdorove,306,Массаж ускуналари,massazhery
+147,Гўзаллик ва саломатлик,krasota-i-zdorove,780,Соқол ва сочларни олиш,brite-i-udalenie-volos
+147,Гўзаллик ва саломатлик,krasota-i-zdorove,784,Сочни парвариш қилиш ва шакллантириш,ukhod-za-volosami-i-ukladki
+147,Гўзаллик ва саломатлик,krasota-i-zdorove,787,Яхши соғлик учун,dlya-zdorovya
+147,Гўзаллик ва саломатлик,krasota-i-zdorove,801,Оғиз бўшлиғи гигиенаси,gigiena-polosti-rta
+147,Гўзаллик ва саломатлик,krasota-i-zdorove,808,Бадан  учун,dlya-telo
+147,Гўзаллик ва саломатлик,krasota-i-zdorove,816,Косметика ускуналари,kosmeticheskoe-oborudovanie
+147,Гўзаллик ва саломатлик,krasota-i-zdorove,821,Маникюр асбоблари,instrumenty-dlya-manikyura
+147,Гўзаллик ва саломатлик,krasota-i-zdorove,827,Қоғоз гигиена воситалари,tualetnaya-bumaga
+1026,Чет элдан товарлар,tovary-iz-za-rubeza,1027,Туркиядан товарлар,tovary-iz-turcii
+1026,Чет элдан товарлар,tovary-iz-za-rubeza,1028,Хитойдан товарлар,tovary-iz-kitaya
+1026,Чет элдан товарлар,tovary-iz-za-rubeza,1029,Дубайдан товарлар,tovary-iz-dubaya
+170,Авто жиҳозлар,avtomobilnye-aksessuary,171,Видеорегистраторлар ва Радар-детекторлар,videoregistratory
+170,Авто жиҳозлар,avtomobilnye-aksessuary,181,Автоаксессуарлар,aksessuary-2
+170,Авто жиҳозлар,avtomobilnye-aksessuary,215,Минимойка ва юқори босимли насослар,minimoyka
+170,Авто жиҳозлар,avtomobilnye-aksessuary,240,Авто учун рул,rul
+170,Авто жиҳозлар,avtomobilnye-aksessuary,243,Автосигнализация,avtosignalizatsiya
+170,Авто жиҳозлар,avtomobilnye-aksessuary,345,Аккумуляторлар,akkumulyatory
+170,Авто жиҳозлар,avtomobilnye-aksessuary,346,Шиналар,shiny
+170,Авто жиҳозлар,avtomobilnye-aksessuary,456,Фара,fara
+170,Авто жиҳозлар,avtomobilnye-aksessuary,458,Автомобил гиламча,avtomobilnye-kovriki
+170,Авто жиҳозлар,avtomobilnye-aksessuary,459,Мотор мойлари,motornye-masla
+170,Авто жиҳозлар,avtomobilnye-aksessuary,465,Автомобиллар учун дискалар,diski-dlya-avto
+170,Авто жиҳозлар,avtomobilnye-aksessuary,468,Автомобиль қопламалари,chekhly-dlya-sidenya
+170,Авто жиҳозлар,avtomobilnye-aksessuary,473,Бар,bar
+170,Авто жиҳозлар,avtomobilnye-aksessuary,501,Автомобиль суюқликлари ва антифризлар,antifriz
+170,Авто жиҳозлар,avtomobilnye-aksessuary,550,Автомобиль шасси қисмлари,khodovaya-chast-avtomobilya
+170,Авто жиҳозлар,avtomobilnye-aksessuary,559,Автомобилнинг мотор қисми,motornaya-chast-avtomobilya
+170,Авто жиҳозлар,avtomobilnye-aksessuary,628,Автомобилнинг электр қисми,elektricheskaya-chast-avtomobilya
+170,Авто жиҳозлар,avtomobilnye-aksessuary,884,Автомобиль ойналари,avtomobilnye-stekla
+170,Авто жиҳозлар,avtomobilnye-aksessuary,934,Автомабил танаси қисимлари,detali-dlya-kuzova
+170,Авто жиҳозлар,avtomobilnye-aksessuary,951,Бошқа автомобиль эҳтиёт қисмлари,drugie-avtozapchasti
+170,Авто жиҳозлар,avtomobilnye-aksessuary,281,Автомобиль учун аудио,audio-1
+182,"Барчаси офис, уй ва боғ учун",mebel,184,All Home,matrasy
+182,"Барчаси офис, уй ва боғ учун",mebel,214,Барчаси боғ учун,prinadlezhnosti-dlya-sada
+182,"Барчаси офис, уй ва боғ учун",mebel,246,Барчаси таъмирлаш ишлари  учун,proektory
+182,"Барчаси офис, уй ва боғ учун",mebel,274,Сув учун кулер,kulery-dlya-vody-1
+182,"Барчаси офис, уй ва боғ учун",mebel,276,Электр таъминоти элементлари,elementy-elektropitaniya-1
+182,"Барчаси офис, уй ва боғ учун",mebel,349,Бассейнлар ва аксессуарлар,basseyny
+182,"Барчаси офис, уй ва боғ учун",mebel,354,Рекуператорлар,rekuperatory
+182,"Барчаси офис, уй ва боғ учун",mebel,437,Будулник ва соатлар,budilniki
+182,"Барчаси офис, уй ва боғ учун",mebel,502,Ёритиш,osveshchenie
+182,"Барчаси офис, уй ва боғ учун",mebel,508,"Барчаси завқ, пикник ва севимли машғулотлар учун",vse-dlya-udovolstviya-piknika-i-khobbi
+182,"Барчаси офис, уй ва боғ учун",mebel,511,Уй ва офис аксессуарлари,aksessuary-dlya-doma-i-ofisa
+182,"Барчаси офис, уй ва боғ учун",mebel,693,Тозалаш воситалари,bytovaya-khimiya
+182,"Барчаси офис, уй ва боғ учун",mebel,831,Гиламлар ва гиламчалар,kovry-i-kovrovye-dorozhki
+182,"Барчаси офис, уй ва боғ учун",mebel,892,Сақлаш ечимлари,resheniya-dlya-khraneniya
+182,"Барчаси офис, уй ва боғ учун",mebel,1051,Декор ва интерер,dekor-i-interer
+185,Болалар учун ўйинчоқ ва маҳсулотлар,tovary-dlya-detey,219,Болалар учун стол ўйинлари,nastolnye-igry-1
+185,Болалар учун ўйинчоқ ва маҳсулотлар,tovary-dlya-detey,247,Ўйинчоқлар,igrushki
+185,Болалар учун ўйинчоқ ва маҳсулотлар,tovary-dlya-detey,383,Скейтлар ва Самокатлар,skeyty-i-samokaty
+185,Болалар учун ўйинчоқ ва маҳсулотлар,tovary-dlya-detey,387,Оналар ва гўдаклар учун товарлар,detskie-aksessuary
+185,Болалар учун ўйинчоқ ва маҳсулотлар,tovary-dlya-detey,426,Арғимчоқлар,kacheli
+185,Болалар учун ўйинчоқ ва маҳсулотлар,tovary-dlya-detey,433,Кичкинтойларнинг хавфсизлиги учун маҳсулотлар,radionyani-i-videonyani
+185,Болалар учун ўйинчоқ ва маҳсулотлар,tovary-dlya-detey,438,Болалар аравачалари,detskie-kolyaski-i-avtokresla
+185,Болалар учун ўйинчоқ ва маҳсулотлар,tovary-dlya-detey,439,Болалар авто ўриндиқлари,avtokresla
+185,Болалар учун ўйинчоқ ва маҳсулотлар,tovary-dlya-detey,477,Болалар учун электр машина,detskie-elektromobili
+185,Болалар учун ўйинчоқ ва маҳсулотлар,tovary-dlya-detey,860,Кичкинтойлар учун стул,stulchik-dlya-kormleniya
+185,Болалар учун ўйинчоқ ва маҳсулотлар,tovary-dlya-detey,1196,Болалар велосипедлари,detskie-velosipedy
+185,Болалар учун ўйинчоқ ва маҳсулотлар,tovary-dlya-detey,1199,Ходунок ва сакроғичлар,xodunki-i-prygunki
+319,Кийим ва пойабзаллар,moda-i-aksessuary,320,Қўл соат,naruchnye-chasy
+319,Кийим ва пойабзаллар,moda-i-aksessuary,325,Сумкалар,sumki
+319,Кийим ва пойабзаллар,moda-i-aksessuary,352,Эркаклар пойабзаллари,obuv
+319,Кийим ва пойабзаллар,moda-i-aksessuary,434,Мода ва аксессуарлар,podarochnye-nabory-1
+319,Кийим ва пойабзаллар,moda-i-aksessuary,664,Эркаклар кийимлари,muzhskaya-odezhda
+319,Кийим ва пойабзаллар,moda-i-aksessuary,666,Аёллар кийимлари,zhenskaya-odezhda
+319,Кийим ва пойабзаллар,moda-i-aksessuary,667,Чақалоқ кийимлари,detskaya-odezhda
+319,Кийим ва пойабзаллар,moda-i-aksessuary,903,Аёллар пойабзаллари,zhenskaya-obuv
+319,Кийим ва пойабзаллар,moda-i-aksessuary,928,Заргарлик ва бижутерия,yuvelirnye-izdeliya-i-bizhuteriya
+319,Кийим ва пойабзаллар,moda-i-aksessuary,996,Қизлар учун пойабзал,obuv-dlya-devochek
+319,Кийим ва пойабзаллар,moda-i-aksessuary,1003,Ўғил болалар учун пойабзал,obuv-dlya-malchikov
+319,Кийим ва пойабзаллар,moda-i-aksessuary,1010,Махсус кийимлар,specodezda
+319,Кийим ва пойабзаллар,moda-i-aksessuary,1012,Аниме кийимлар,odezda-anime
+319,Кийим ва пойабзаллар,moda-i-aksessuary,1106,Ўғил болалар учун кийимлар,odezda-dlya-malcikov
+319,Кийим ва пойабзаллар,moda-i-aksessuary,1107,Қизлар учун кийимлар,odezda-dlya-devocek
+333,Китоблар,knigi,334,Диний адабиёт,religioznaya-literatura
+333,Китоблар,knigi,335,Жаҳон адабиёти,mirovaya-literatura
+333,Китоблар,knigi,336,Китоб аксессуарлари,aksessuary-dlya-knig
+333,Китоблар,knigi,522,Бестселлер,top-100-bestseller
+333,Китоблар,knigi,523,Бадиий адабиётлар,khudozhestvennaya-literatura
+333,Китоблар,knigi,524,Ҳужжатли китоблар,dokumentalnye-knigi
+333,Китоблар,knigi,525,Бизнес-китоблар,biznes-knigi
+333,Китоблар,knigi,526,Луғат ва сўзлашгичлар,slovari-i-razgovorniki
+333,Китоблар,knigi,527,"Хорижий, рус адабиёти",zarubezhnaya-russkaya-literatura
+333,Китоблар,knigi,528,Абитуриентлар учун адабиётлар,dlya-abiturientov
+333,Китоблар,knigi,529,Санъат ва маданият,iskusstvo-i-kultura
+333,Китоблар,knigi,530,Фантастика,fantastika
+333,Китоблар,knigi,531,ИТ- компьютер ва интернет,it-kompyuter-i-internet
+333,Китоблар,knigi,532,"Соғлиқ, гўзаллик, психология",zdorove-krasota-psikhologiya
+333,Китоблар,knigi,533,Дарсликлар ,uchebnye-knigi
+333,Китоблар,knigi,534,"Саёҳат, автомобиллар, спорт",puteshestviya-avtomobili-sport
+333,Китоблар,knigi,535,Болалар ва ота-оналар учун,dlya-detey-i-roditeley
+333,Китоблар,knigi,536,"Уй, ҳунармандчилик, дам олиш, севимли машғулотлар",dom-remesla-dosug-khobbi
+333,Китоблар,knigi,538,Илмий китоблар,nauchnye-knigi
+333,Китоблар,knigi,539,Юридик адабиётлар,yuridicheskie-knigi
+333,Китоблар,knigi,552,Тарихий китоблар,istoricheskie-knigi
+333,Китоблар,knigi,694,Полиция детектив,politseyskie-detektivy
+333,Китоблар,knigi,955,Комикслар,komiksy
+333,Китоблар,knigi,956,Бадиий бўлмаган адабиётлар,nekhudozhestvennaya-literatura
+643,Мебель,mebel-1,644,Офис креслолари,kresla-1
+643,Мебель,mebel-1,706,Боғ мебеллари,sadovaya-mebel
+643,Мебель,mebel-1,719,Ошхона мебеллари ва HoReCA учун мебеллар,kukhonnaya-mebel-i-mebel-dlya-horeca
+643,Мебель,mebel-1,728,Юмшоқ мебель,myagkaya-mebel
+643,Мебель,mebel-1,736,Корпусли мебеллар,korpusnaya-mebel
+643,Мебель,mebel-1,768,Уйқу ҳудуди,territoriya-sna
+643,Мебель,mebel-1,834,Мебел учун қопламалар,chekhly-dlya-mebeley
+411,Геймерлар учун,dlya-geymerov,412,Геймерлар учун гарнитуралар,garnitury-2
+411,Геймерлар учун,dlya-geymerov,413,Геймерлар учун клавиатуралар,klaviatury-1
+411,Геймерлар учун,dlya-geymerov,414,Геймерлар учун сичқонча,myshi-1
+411,Геймерлар учун,dlya-geymerov,415,Ўйин учун курсилар,igrovye-kresla-1
+411,Геймерлар учун,dlya-geymerov,416,Ўйин учун гиламчалар,igrovye-kovriki
+411,Геймерлар учун,dlya-geymerov,463,Геймерлар учун монитор,monitor
+411,Геймерлар учун,dlya-geymerov,466,Ўйин акустикаси,igrovaya-akustika
+411,Геймерлар учун,dlya-geymerov,467,Геймерлар учун столлар,stoly-dlya-geymerov
+411,Геймерлар учун,dlya-geymerov,506,Геймерлар учун оптика,optika-dlya-geymera
+411,Геймерлар учун,dlya-geymerov,541,Геймерлар учун аксессуарлар ва гаджетлар,prochie-aksessuary-i-gadzhety-dlya-geymerov
+479,Барчаси таъмирлаш ва қурилиш учун,vse-dlya-remonta-i-stroitelstva,480,Кафел ва плиткалар,kafeli-i-plitki
+479,Барчаси таъмирлаш ва қурилиш учун,vse-dlya-remonta-i-stroitelstva,481,Асбоб- анжомлар қутиси,sumka-dlya-instrumenta-1
+479,Барчаси таъмирлаш ва қурилиш учун,vse-dlya-remonta-i-stroitelstva,482,Душ лейкаси ва кранлар,smesiteli-1
+479,Барчаси таъмирлаш ва қурилиш учун,vse-dlya-remonta-i-stroitelstva,483,Стабилизаторлар,stablizatory-1
+479,Барчаси таъмирлаш ва қурилиш учун,vse-dlya-remonta-i-stroitelstva,484,Нарвонлар,stremyanki-1
+479,Барчаси таъмирлаш ва қурилиш учун,vse-dlya-remonta-i-stroitelstva,485,Ўлчов асбоблари,izmeritelnye-pribory-1
+479,Барчаси таъмирлаш ва қурилиш учун,vse-dlya-remonta-i-stroitelstva,486,Иситиш радиаторлари,radiatory-1
+479,Барчаси таъмирлаш ва қурилиш учун,vse-dlya-remonta-i-stroitelstva,487,Қувурлар ва фитинглар,truby-i-fitingi-1
+479,Барчаси таъмирлаш ва қурилиш учун,vse-dlya-remonta-i-stroitelstva,488,Бошқа асбоблар,prochee-1
+479,Барчаси таъмирлаш ва қурилиш учун,vse-dlya-remonta-i-stroitelstva,489,Электр арралар,elektropily-1
+479,Барчаси таъмирлаш ва қурилиш учун,vse-dlya-remonta-i-stroitelstva,490,Қурилиш фенлари,stroitelnye-feny-1
+479,Барчаси таъмирлаш ва қурилиш учун,vse-dlya-remonta-i-stroitelstva,491,Дреллар,dreli
+479,Барчаси таъмирлаш ва қурилиш учун,vse-dlya-remonta-i-stroitelstva,492,Перфораторлар,perforatory
+479,Барчаси таъмирлаш ва қурилиш учун,vse-dlya-remonta-i-stroitelstva,493,Майдалаш болғаси,otboynye-molotki
+479,Барчаси таъмирлаш ва қурилиш учун,vse-dlya-remonta-i-stroitelstva,494,Пайвандлаш аппаратлари,svarochnye-apparaty
+479,Барчаси таъмирлаш ва қурилиш учун,vse-dlya-remonta-i-stroitelstva,495,Бурчак силлиқлаш машинаси- болгаркалар,uglovaya-shlifovalnaya-mashina-bolgarki
+479,Барчаси таъмирлаш ва қурилиш учун,vse-dlya-remonta-i-stroitelstva,496,Компрессорлар,kompressory-1
+479,Барчаси таъмирлаш ва қурилиш учун,vse-dlya-remonta-i-stroitelstva,497,Перфодреллар,perfodreli
+479,Барчаси таъмирлаш ва қурилиш учун,vse-dlya-remonta-i-stroitelstva,498,Барчаси электр жиҳозлар ўрнатиш учун,vse-dlya-elektromontazha
+479,Барчаси таъмирлаш ва қурилиш учун,vse-dlya-remonta-i-stroitelstva,500,Сув учун идиш,emkost-dlya-vody
+479,Барчаси таъмирлаш ва қурилиш учун,vse-dlya-remonta-i-stroitelstva,504,Душ кабиналари,dushevye-kabiny
+479,Барчаси таъмирлаш ва қурилиш учун,vse-dlya-remonta-i-stroitelstva,517,Лак- бўёқ қопламалари,lakokrasochnye-pokrytiya
+479,Барчаси таъмирлаш ва қурилиш учун,vse-dlya-remonta-i-stroitelstva,518,Қурилиш учун махсус кийимлар,spetsodezhda
+479,Барчаси таъмирлаш ва қурилиш учун,vse-dlya-remonta-i-stroitelstva,519,Лобзик арралар ва кесиш ускуналари,lobziki-i-raskroynoe-instrumenty
+479,Барчаси таъмирлаш ва қурилиш учун,vse-dlya-remonta-i-stroitelstva,520,Қурилиш миксерлари,stroitelnyy-mikser
+479,Барчаси таъмирлаш ва қурилиш учун,vse-dlya-remonta-i-stroitelstva,521,Пол қопламали,napolnye-pokrytiya
+479,Барчаси таъмирлаш ва қурилиш учун,vse-dlya-remonta-i-stroitelstva,554,Батареялар ва аккумуляторлар,batareyki-i-akkumulyatory
+479,Барчаси таъмирлаш ва қурилиш учун,vse-dlya-remonta-i-stroitelstva,939,Қурилиш вибраторлари,stroitelnye-vibratory
+479,Барчаси таъмирлаш ва қурилиш учун,vse-dlya-remonta-i-stroitelstva,940,Дастгоҳлар,stanki
+479,Барчаси таъмирлаш ва қурилиш учун,vse-dlya-remonta-i-stroitelstva,941,Омборхона ускуналари,skladskoe-oborudovanie
+479,Барчаси таъмирлаш ва қурилиш учун,vse-dlya-remonta-i-stroitelstva,942,Рандалар,rubanki
+479,Барчаси таъмирлаш ва қурилиш учун,vse-dlya-remonta-i-stroitelstva,1048,Гулқоғоз ва девор безаклари,oboi-i-dekor-sten
+479,Барчаси таъмирлаш ва қурилиш учун,vse-dlya-remonta-i-stroitelstva,1066,Генераторлар,generatory
+196,Канцелярия товарлари,kantselyarskie-tovary,209,Handmade,handmade
+196,Канцелярия товарлари,kantselyarskie-tovary,211,Ўқув қуроллари,shkolnye-tovary
+196,Канцелярия товарлари,kantselyarskie-tovary,212,Офис учун буюмлар,ofisnye-prinadlezhnosti
+196,Канцелярия товарлари,kantselyarskie-tovary,567,Ёзиш учун,pismennye-prinadlezhnosti
+196,Канцелярия товарлари,kantselyarskie-tovary,583,Қоғоз маҳсулотлари,bumazhnaya-produktsiya
+196,Канцелярия товарлари,kantselyarskie-tovary,617,Папкалар ва файллар,papki-i-fayly
+196,Канцелярия товарлари,kantselyarskie-tovary,622,Мухр ва штамплар,pechati-i-shtampy
+196,Канцелярия товарлари,kantselyarskie-tovary,630,Барчаси чизиш учун,vse-dlya-risovaniya
+196,Канцелярия товарлари,kantselyarskie-tovary,894,Мактаб тўпламлари,shkolnye-nabory
+196,Канцелярия товарлари,kantselyarskie-tovary,1049,Фотоальбом ва рамкалар,fotoalbomy
+470,Электротранспорт,elektrotransport,471,Электроскутер,elektroskuter
+470,Электротранспорт,elektrotransport,472,Электрокар,elektrokar
+470,Электротранспорт,elektrotransport,713,Электр самокатлар,elektrosamokaty
+542,Совғалар ва сувенирлар,podarki-i-suveniry,543,Эркаклар учун совғалар,podarki-dlya-muzhchin
+542,Совғалар ва сувенирлар,podarki-i-suveniry,544,Аёллар учун совғалар,podarki-dlya-zhenshchin
+542,Совғалар ва сувенирлар,podarki-i-suveniry,545,Болалар учун совғалар,podarki-dlya-detey
+542,Совғалар ва сувенирлар,podarki-i-suveniry,546,Оилавий совғалар,semeynye-podarki
+542,Совғалар ва сувенирлар,podarki-i-suveniry,547,Совға тўпламлари,podarochnye-nabory-2
+542,Совғалар ва сувенирлар,podarki-i-suveniry,548,Диний ва исломий совғалар,religioznye-i-islamskie-podarki
+542,Совғалар ва сувенирлар,podarki-i-suveniry,549,Ёритгичлар,svetilniki
+542,Совғалар ва сувенирлар,podarki-i-suveniry,553,Сувенирлар ва ҳайкалчалар,suveniry-i-statuetki
+542,Совғалар ва сувенирлар,podarki-i-suveniry,927,Совға ваучерлари,podarochnye-vauchery-1
+542,Совғалар ва сувенирлар,podarki-i-suveniry,966,Декоратив буюмлар,dekorativnye-izdeliya
+542,Совғалар ва сувенирлар,podarki-i-suveniry,967,Совға ўрамлари,podarochnaya-upakovka
+869,Ақлли уй,umnyy-dom,870,Масофадан бошқариш пультлари ва бошқарув панеллари,pulty-i-paneli-upravleniya
+869,Ақлли уй,umnyy-dom,871,Ақлли уй бошқарувчилари,kontrollery-dlya-umnogo-doma
+869,Ақлли уй,umnyy-dom,872,Ақлли уй ёритгичи,osveshchenie-umnogo-doma
+869,Ақлли уй,umnyy-dom,873,Ақлли уй сенсорли калитлари,vyklyuchateli-dlya-umnogo-doma
+869,Ақлли уй,umnyy-dom,874,Ақлли уй розеткалари ва электр энергияси,rozetki-i-elektrichestvo-umnogo-doma
+869,Ақлли уй,umnyy-dom,875,Алоқа ҳимояси,zashchita-kommunikatsiy
+869,Ақлли уй,umnyy-dom,876,Ақлли уй учун мультимедиа,multimedia-dlya-umnogo-doma
+869,Ақлли уй,umnyy-dom,877,Иқлим назорати,klimat-kontrol
+869,Ақлли уй,umnyy-dom,878,Ақлли уй пардалари ва жалюзилари,shtory-i-zhalyuzi-umnogo-doma
+869,Ақлли уй,umnyy-dom,879,Автоматик ақлли уй қулфлари,avtomaticheskie-zamki-dlya-umnogo-doma
+869,Ақлли уй,umnyy-dom,880,Хавфсизлик тизимлари,okhrannye-sistemy
+869,Ақлли уй,umnyy-dom,882,Ёнғин сигнализацияси,pozharnaya-signalizatsiya
+869,Ақлли уй,umnyy-dom,883,Ўрнатувчилар учун,installyatoram
+889,Қулай таклифлар,vygodnye-predlozheniya,890,Акциялар ва махсус таклифлар,aktsii-i-spetspredlozheniya
+889,Қулай таклифлар,vygodnye-predlozheniya,935,Мавсумий маҳсулотлар,sezonnye-tovary
+889,Қулай таклифлар,vygodnye-predlozheniya,1197,Биздан таклиф,predlozenie-ot-nas
